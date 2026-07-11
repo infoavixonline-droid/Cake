@@ -1,0 +1,6 @@
+{
+  "name": "Doodle Cake Bakery",
+  "description": "A playful, kid-friendly, hand-drawn e-commerce site for picking delicious custom cakes, complete with a local cart and WhatsApp ordering integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
